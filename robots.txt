@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://fati-810.github.io/Life-with-Jessie-Blog-Website/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
