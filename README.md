@@ -27,7 +27,7 @@ Well-structured fonts and spacing for comfortable reading.
 🧭 **Navigation Menu:**
 Structured menu allowing easy access to main pages and blog sections.
 
-⚡Fast Static Performance: 
+⚡**Fast Static Performance:** 
 Exported as a static website for faster loading and reliable hosting.
 
 ## Technical Overview
